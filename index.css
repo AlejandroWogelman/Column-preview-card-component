@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+
+.card-img-top{
+    height: 40px;
+    width: 55px;
+}
+
+.card{
+    height: 70vh;
+    padding: 20px;
+    
+}
+.card p{
+    color:hsla(0, 0%, 100%, 0.75);
+}
+
+.col-sedan{
+   background-color: hsl(31, 77%, 52%)
+}
+
+.col-suv{
+    background-color: hsl(184, 100%, 22%)
+ }
+
+.col-luxury{
+    background-color: hsl(179, 100%, 13%)
+ }
+
+ h3{
+     color: hsl(0, 0%, 95%);
+     text-transform: uppercase;
+ }
+
+ .btn-sedan{
+    color: hsl(31, 77%, 52%)
+ }
+ .btn-suv{
+    color:hsl(184, 100%, 22%)
+ }
+ .btn-luxury{
+    color: hsl(179, 100%, 13%)
+ }
+ .btn{
+     width: 60%;
+     height: 10%;
+ }
